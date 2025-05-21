@@ -19,3 +19,4 @@ CNP/
 # sotuken_DCNP1
 # sotuken_DCNP
 # sotuken_DCNP
+# sotuken_DCNP
